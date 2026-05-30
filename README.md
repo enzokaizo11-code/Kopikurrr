@@ -1,2 +1,2 @@
 # Kopikurrr
-website/aplikasi Startup 
+ 
